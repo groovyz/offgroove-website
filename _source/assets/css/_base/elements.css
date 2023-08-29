@@ -49,7 +49,7 @@ h1 {
   margin: var(--space-xl) 0 var(--space-m) 0;
   font-size: var(--text-xl);
   letter-spacing: var(--text-spacing-s);
-  max-width: 60ch;
+  max-width: 100%;
 }
 
 h2 {
